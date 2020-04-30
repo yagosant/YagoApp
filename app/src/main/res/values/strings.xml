@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Yago App</string>
+    <string name="yago_projetos">Yago Projetos 2020</string>
+    <string name="sobre_descricao">Formado em Analise de Desenvolvimento de Sistemas na Estácio de Sá Juiz de Fora, Tecnico de Informática no IFETMG e Nerd nas horas vagas</string>
+    <string name="github_yagosan">GitHub = Yagosan</string>
+    <string name="instagram_yagojf">Instagram @yagojf</string>
+    <string name="sobre_email">yagojf27@gmail.com</string>
 </resources>
